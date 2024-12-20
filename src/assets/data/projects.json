@@ -1,0 +1,46 @@
+{
+    "projects": [{
+            "Name": "Audio Soundscape",
+            "Status": "Complete",
+            "Date": "2023-09-09T00:00:00Z",
+            "Audio": "CS7028 Audio Assignment 2- Nangole Martin_Inbetween.wav",
+            "Loop": true,
+            "Tags": ["Audio"],
+            "Description": ["An immersive audio soundscape created to evoke different moods using ambient sounds."]
+        },
+        {
+            "Name": "Ice Cream Shop Branding",
+            "Status": "Complete",
+            "Date": "2023-10-10T00:00:00Z",
+            "Image": "Murphy_s Ice Cream Pint.png",
+            "Tags": ["Branding & Design"],
+            "Description": ["A branding project for an ice cream shop, including logo design, color palette, and promotional materials."]
+        },
+        {
+            "Name": "Ticketing Service Mockup",
+            "Status": "Complete",
+            "Date": "2020-03-30T00:00:00Z",
+            "Image": "View Event.png",
+            "Tags": ["App Design", "Media & Prototypes"],
+            "Description": ["A prototype of a mobile app designed for task management, built using a popular prototyping tool."]
+        },
+        {
+            "Name": "Bias in Machine Learning Algorithms for Automotive Applications and Related Ethical Concerns",
+            "Status": "Complete",
+            "Date": "2022-10-30T00:00:00Z",
+            "Tags": ["Research"],
+            "Link": "assets/documents/Bias_in_Machine_Learning_Algorithms_for_Automotive_Applications_and_Related_Ethical_Concerns.pdf",
+            "LinkText": "Read the paper",
+            "Description": ["Machine learning (ML) is an ever-expanding field of research that has garnered attention over the past decades for breakthrough performances in the completion of complex tasks that were once thought to be only achievable to humans. With an increasing demand for automated decision systems based on ML, the automotive industry is now preparing for the development and widespread adoption of autonomous vehicles. At the same time, however, a growing number of issues related to bias in the performance of ML algorithms is raising concerns about the current state of fairness in algorithms and whether or not ML algorithms can be trusted to make fair decisions under realistic circumstances, particularly when the safety of a human is at risk.",
+             "This thesis aims to review literature surrounding the topic of algorithmic bias in computer vision (CV) and provide information about possible causes of algorithmic bias, the practical effects of bias in CV and concrete strategies for overcoming bias in automotive applications specifically. In doing so, we delve into relevant works, discuss notable instances of algorithmic bias in practice within recent memory and cover some of the underlying theories in computer vision and machine learning."]
+        },
+        {
+            "Name": "3DS Max Scene",
+            "Status": "Complete",
+            "Date": "2024-12-10T00:00:00Z",
+            "Image": "CS7029 - Nangole Martin - Assignment 3.jpg",
+            "Tags": ["3D Modelling"],
+            "Description": ["A prototype of a mobile app designed for task management, built using a popular prototyping tool."]
+        }
+    ]
+}

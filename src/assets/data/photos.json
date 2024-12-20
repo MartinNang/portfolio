@@ -1,0 +1,19 @@
+{
+    "images": [
+        {
+            "image": "assets/img/homepage_image0.jpg",
+            "title": "frug",
+            "description": "A digital art print featuring a frog on a penny-farthing. In the bottom right corner, two flies are seen riding a tandem bike, with one of them falling off, as well as a ladybird struggling to stay on a unicycle."
+        },
+        {
+            "url": "assets/img/homepage_image1.jpg",
+            "title": "fax",
+            "description": "A digital art piece of a dapper fox wearing a vintage three-piece suit and holding a hat in its front left paw."
+        },
+        {
+            "url": "assets/img/homepage_image2.jpg",
+            "title": "sleth",
+            "description": "A digital artwork of a stylish sloth posing in a three-piece suit."
+        }
+    ]
+}
